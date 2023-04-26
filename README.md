@@ -1,6 +1,6 @@
 # API YaMDb
 
-![dsd](https://github.com/Rashid-creator-droid/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master?event=push)
+![dsd](https://github.com/Rashid-creator-droid/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 ## Описание
 Проект YaMDb, который выполнен в учебных целяx для курса Яндекс.Практикума, собирает отзывы пользователей на произведения.
