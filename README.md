@@ -21,4 +21,4 @@
 - Git Actions
 
 
-- Документация на приложение доступна по адресу http://localhost/redoc
+Документация на приложение доступна по адресу http://localhost/redoc
