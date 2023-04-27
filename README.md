@@ -13,12 +13,8 @@
 - Python 3.7
 - Django 3.2
 - DRF
-- PyJWT
-- Nginx
 - Docker
-- PostgreSQL
-- Gunicorn
 - Git Actions
 
 
-Документация на приложение доступна по адресу http://localhost/redoc
+Если сервер запущен, то документация на приложение доступна по адресу http://158.160.99.26/redoc/
