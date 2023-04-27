@@ -16,7 +16,7 @@ ALLOWED_HOSTS = [
     '158.160.99.26',
     'localhost',
     'web',
-    'valentaine.hopto.org'
+    'valentaine.hopto.org',
 ]
 
 
