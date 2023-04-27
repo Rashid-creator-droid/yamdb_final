@@ -15,9 +15,8 @@ DEBUG = False
 ALLOWED_HOSTS = [
     '158.160.99.26',
     'localhost',
-    '127.0.0.1',
-    '[::1]',
-    'web'
+    'web',
+    'valentaine.hopto.org'
 ]
 
 
