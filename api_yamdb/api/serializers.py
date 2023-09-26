@@ -10,7 +10,7 @@ class UserSerializer(serializers.ModelSerializer):
         max_length=150,
         validators=[RegexValidator(
             regex=r'^[\w.@+-]+',
-            message='Используйте допустимые символы в username'
+            message='Используйте допустимые символы в userdname'
         )])
     email = serializers.EmailField(max_length=254)
     first_name = serializers.CharField(max_length=150, required=False)
